@@ -72,7 +72,6 @@ Its minimal design and straightforward controls make it a perfect fit for both c
 ## 🖼️ Screenshots
 
 ![EasyWMA Screenshot](https://static.macupdate.com/screenshots/4903/m/easywma-screenshot.png?v=1568049447)  
-![Conversion Preview](https://static.macupdate.com/screenshots/12230/m/easywmv-screenshot.png?v=1621589374)  
 ![Batch Conversion](https://mac-cdn.softpedia.com/screenshots/EasyWMA_3.jpg)  
 
 ---
